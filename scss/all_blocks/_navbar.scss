@@ -196,6 +196,9 @@
           position: absolute;
           bottom: 100px;
         }
+        &-button-btn {
+            color: $white;
+        }
       }
       #bar:checked ~ .ullist {
         left: 0;

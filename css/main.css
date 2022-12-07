@@ -582,6 +582,9 @@ header {
     position: absolute;
     bottom: 100px;
   }
+  .navbar__right--ul-button-btn {
+    color: #ffffff;
+  }
   .navbar__right #bar:checked ~ .ullist {
     left: 0;
   }
