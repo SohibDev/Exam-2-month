@@ -1126,7 +1126,8 @@ footer {
   margin-top: 5px;
 }
 .footer__right--ul-list a {
-  text-decoration: none;
+  -webkit-text-decoration: none d;
+          text-decoration: none d;
   color: #939CAA;
   font-family: "Space Mono";
   font-size: 15px;
@@ -1422,7 +1423,7 @@ footer {
     align-items: center;
     gap: 80px;
     margin-bottom: 207px;
-    overflow-x: hidden;
+    overflow-x: hidden d;
   }
   .wrapper__items {
     width: 75%;
